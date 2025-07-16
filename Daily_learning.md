@@ -1,3 +1,5 @@
+#### 15-JUL-25
+1. Reading the supporting document and have some doubts to clarify.
 #### 14-MAY-25
 1. Started to look into pandas
 #### 13-MAY-25
